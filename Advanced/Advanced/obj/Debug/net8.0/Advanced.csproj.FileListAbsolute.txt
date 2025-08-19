@@ -1,0 +1,14 @@
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\bin\Debug\net8.0\Advanced.exe
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\bin\Debug\net8.0\Advanced.deps.json
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\bin\Debug\net8.0\Advanced.runtimeconfig.json
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\bin\Debug\net8.0\Advanced.dll
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\bin\Debug\net8.0\Advanced.pdb
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\Advanced.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\Advanced.AssemblyInfoInputs.cache
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\Advanced.AssemblyInfo.cs
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\Advanced.csproj.CoreCompileInputs.cache
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\Advanced.dll
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\refint\Advanced.dll
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\Advanced.pdb
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\Advanced.genruntimeconfig.cache
+F:\Codes\C#\WaldoÜbungen\Advanced\Advanced\obj\Debug\net8.0\ref\Advanced.dll

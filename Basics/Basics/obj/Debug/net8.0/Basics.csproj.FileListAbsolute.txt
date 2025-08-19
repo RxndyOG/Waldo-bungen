@@ -1,0 +1,14 @@
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\bin\Debug\net8.0\Basics.exe
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\bin\Debug\net8.0\Basics.deps.json
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\bin\Debug\net8.0\Basics.runtimeconfig.json
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\bin\Debug\net8.0\Basics.dll
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\bin\Debug\net8.0\Basics.pdb
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\Basics.AssemblyInfoInputs.cache
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\Basics.AssemblyInfo.cs
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\Basics.csproj.CoreCompileInputs.cache
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\Basics.dll
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\refint\Basics.dll
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\Basics.pdb
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\Basics.genruntimeconfig.cache
+F:\Codes\C#\WaldoÜbungen\Basics\Basics\obj\Debug\net8.0\ref\Basics.dll

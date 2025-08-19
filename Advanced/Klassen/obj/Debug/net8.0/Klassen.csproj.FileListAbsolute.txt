@@ -1,0 +1,14 @@
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\bin\Debug\net8.0\Klassen.exe
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\bin\Debug\net8.0\Klassen.deps.json
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\bin\Debug\net8.0\Klassen.runtimeconfig.json
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\bin\Debug\net8.0\Klassen.dll
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\bin\Debug\net8.0\Klassen.pdb
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\Klassen.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\Klassen.AssemblyInfoInputs.cache
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\Klassen.AssemblyInfo.cs
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\Klassen.csproj.CoreCompileInputs.cache
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\Klassen.dll
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\refint\Klassen.dll
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\Klassen.pdb
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\Klassen.genruntimeconfig.cache
+F:\Codes\C#\WaldoÜbungen\Advanced\Klassen\obj\Debug\net8.0\ref\Klassen.dll
